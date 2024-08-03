@@ -51,3 +51,5 @@ streamlit run app/gui.py
 - **Analyse button**: Click to start scraping, analyzing, and visualizing the data.
 
 ### Example Output
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
