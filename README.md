@@ -52,4 +52,4 @@ streamlit run app/gui.py
 
 ### Example Output
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/Sal-Faris/Reddit_Sentiment_Analysis/blob/main/SentimentDEMO.gif)
