@@ -180,7 +180,7 @@ if scrape_button_clicked:
             progress_text.text("Clustering sentences...")
             st.subheader('Sentence clustering')
             # Display
-            fig, model, corpus, corpus_embeddings = text_clustering_dbscan(data_df)
+            fig, model, corpus, corpus_embeddings = text_clustering(data_df)
             st.pyplot(fig)
 
             # Displaying the examples from each cluster
