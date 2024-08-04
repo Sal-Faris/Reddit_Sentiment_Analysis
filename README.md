@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 
 ### Obtain client id, client secret and agent name
-go to https://old.reddit.com/prefs/apps to get the client id, client secret and agent name and fill in the corresponding variables in ```reddit_scraping.py```
+go to https://old.reddit.com/prefs/apps and create an app to get the client id, client secret and agent name and fill in the corresponding variables in ```reddit_scraping.py```
 
 ## Usage
 
